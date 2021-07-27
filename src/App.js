@@ -5,7 +5,7 @@ import TodoItem from "./TodoItem.js"
 
 function App() {
   return (
-    <div>
+    <div className="todo-list">
       <TodoItem />
       <TodoItem />
       <TodoItem />
